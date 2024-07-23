@@ -1,3 +1,8 @@
+<!-- DevOps Methodology Image -->
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/z/devops-methodology-development-operations-agil-programming-technology-concept-d-illustration-250454876.jpg?w=992" alt="DevOps Methodology" style="border-radius: 10px; width: 100%; max-width: 600px;">
+</p>
+
 <!-- 3D Header Image of Singapore Downtown -->
 <p align="center">
   <img src="https://github.com/devopsbykunal/devopsbykunal/blob/main/singapore-downtown-3d.jpg" alt="Singapore Downtown 3D" style="border-radius: 10px; width: 100%; max-width: 600px;">
