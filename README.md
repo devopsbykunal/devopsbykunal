@@ -27,9 +27,8 @@ A passionate DevOps Engineer from India
 ### 🤝 Connect with me
 
 - **Ask me about DevOps & AWS**
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [Email](mailto:your-email@example.com)
+
+- [Email](joshikunal330@gmail.com)
 
 ---
 
