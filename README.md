@@ -1,13 +1,13 @@
-<!-- 3D Header Image -->
+<!-- 3D Header Image of Singapore Downtown -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="3D Image" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://example.com/singapore-downtown-3d.jpg" alt="Singapore Downtown 3D" style="border-radius: 10px; width: 100%; max-width: 600px;">
 </p>
 
 ### Hi 👋, I'm Kunal Joshi
 
 A passionate DevOps Engineer from India
 
-![[Profile views](https://thumbs.dreamstime.com/z/devops-methodology-development-operations-agil-programming-technology-concept-d-illustration-250454876.jpg?w=992)](https://github.com/devopsbykunal)
+![Profile views](https://gpvc.arturio.dev/devopsbykunal)
 
 ---
 
