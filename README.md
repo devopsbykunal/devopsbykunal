@@ -1,6 +1,6 @@
 <!-- 3D Header Image of Singapore Downtown -->
 <p align="center">
-  <img src="https://example.com/singapore-downtown-3d.jpg" alt="Singapore Downtown 3D" style="border-radius: 10px; width: 100%; max-width: 600px;">
+  <img src="https://github.com/devopsbykunal/devopsbykunal/blob/main/singapore-downtown-3d.jpg" alt="Singapore Downtown 3D" style="border-radius: 10px; width: 100%; max-width: 600px;">
 </p>
 
 ### Hi 👋, I'm Kunal Joshi
