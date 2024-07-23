@@ -15,13 +15,13 @@
 
 A passionate DevOps Engineer from India
 
-!(https://github.com/devopsbykunal/)
+![Profile views](https://gpvc.arturio.dev/devopsbykunal)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devopsbykunal&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devopsbykunal&theme=dark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -40,17 +40,18 @@ A passionate DevOps Engineer from India
 ### 🤝 Connect with me
 
 - **Ask me about DevOps & AWS**
-
-- [Email](joshikunal117@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+- [Twitter](https://twitter.com/your-twitter-username)
+- [Email](mailto:your-email@example.com)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=devopsbykunal&show_icons=true&theme=onedark)
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=devopsbykunal&show_icons=true&theme=dark)
 
 ---
 
 ### 📊 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devopsbykunal&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devopsbykunal&theme=dark)](https://git.io/streak-stats)
