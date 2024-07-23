@@ -1,3 +1,8 @@
+<!-- 3D Header Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="3D Image" style="border-radius: 50%; width: 150px; height: 150px;">
+</p>
+
 ### Hi 👋, I'm Kunal Joshi
 
 A passionate DevOps Engineer from India
@@ -27,8 +32,9 @@ A passionate DevOps Engineer from India
 ### 🤝 Connect with me
 
 - **Ask me about DevOps & AWS**
-
-- [Email](joshikunal330@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+- [Twitter](https://twitter.com/your-twitter-username)
+- [Email](mailto:your-email@example.com)
 
 ---
 
