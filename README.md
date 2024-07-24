@@ -4,7 +4,7 @@
 </p>
 
 <!-- Additional Image with Text on the Side -->
-<p align="center">
+<p align="left">
   <img src="https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" alt="Additional Image" style="border-radius: 10px; width: 100px; height: 100px; display: inline-block;">
   <span style="display: inline-block; vertical-align: top; margin-left: 10px;">
     <p>Hello, my name is Kunal Joshi</p>
