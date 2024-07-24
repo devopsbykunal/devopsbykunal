@@ -15,7 +15,7 @@
 
 A passionate DevOps Engineer from India
 
-![Profile views](https://github.com/devopsbykunal/)
+(https://github.com/devopsbykunal/)
 
 ---
 
