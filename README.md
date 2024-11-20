@@ -41,7 +41,8 @@ A passionate DevOps Engineer from India
 ### 🤝 Connect with me
 
 - **Ask me about DevOps, AWS & Software Testing**
-- [Email](joshikunal330@gmail.com)
+- [Email](globalinformationtracker2002@gmail.com
+)
 
 ---
 
