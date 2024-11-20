@@ -34,12 +34,13 @@ A passionate DevOps Engineer from India
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software%20Testing-%234CAF50.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ---
 
 ### 🤝 Connect with me
 
-- **Ask me about DevOps & AWS**
+- **Ask me about DevOps, AWS & Software Testing**
 - [Email](joshikunal330@gmail.com)
 
 ---
