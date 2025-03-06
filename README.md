@@ -1,6 +1,8 @@
-### Hi 👋, I'm Kunal Joshi  
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/image.png" width="100%" alt="AI & DevOps Banner">
 
-A passionate **DevOps Engineer** and **AI/ML Enthusiast** from India  
+# Hi 👋, I'm Kunal Joshi  
+
+🚀 **DevOps Engineer** | 🧠 **AI/ML Enthusiast**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopsbykunal)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-joshi-devops)  
@@ -24,9 +26,6 @@ A passionate **DevOps Engineer** and **AI/ML Enthusiast** from India
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-%234CAF50.svg?style=for-the-badge&logo=deepmind&logoColor=white)  
-![Statistics](https://img.shields.io/badge/Statistics-%23008080.svg?style=for-the-badge&logo=mathworks&logoColor=white)  
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%231D76DB.svg?style=for-the-badge&logo=dataiku&logoColor=white)  
 
 ---
 
@@ -52,5 +51,3 @@ A passionate **DevOps Engineer** and **AI/ML Enthusiast** from India
 
 📧 Email: [globalinformationtracker2002@gmail.com](mailto:globalinformationtracker2002@gmail.com)  
 🔗 LinkedIn: [Kunal Joshi](https://www.linkedin.com/in/kunal-joshi-devops)  
-
----
